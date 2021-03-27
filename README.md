@@ -14,12 +14,14 @@ I am a final year student at the Technical College Cotemig 🎓. I am a passiona
 - 🌐 Visit my [porfolio website](http://whoiamdavi.atwebpages.com/) for complete background and contact.
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
-<a href="https://www.php.net"><img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> </a> </a><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/https://docs.microsoft.com/pt-br/dotnet/csharp/"><img width="30" height="30" margin="2px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></a> <a href="https://getbootstrap.com"><img width="30" height="30" margin="2px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></a> <a href="https://www.w3schools.com/css/"><img width="30" height="30" margin="2px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a><a href="https://www.w3.org/html/"><img width="30" height="30" margin="2px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a><a      href="https://www.mysql.com/"><img width="30" height="30" margin="2px"                                                              src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a>                                     
+<a href="https://www.php.net">
+<img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> </a><a href="https://www.w3schools.com/cs/">
+<img width="30" height="30"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></a><a href="https://getbootstrap.com"><img width="30" height="30" margin="2px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></a> <a href="https://www.w3schools.com/css/"><img width="30" height="30" margin="2px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a><a href="https://www.w3.org/html/"><img width="30" height="30" margin="2px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a><a href="https://www.mysql.com/"><img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a>                                     
 
 
 <details>	
   <summary><b>Programming Languages</b></summary>
-<a href="https://www.php.net"><img width="30" height="30" margin="2px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> </a><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/https://docs.microsoft.com/pt-br/dotnet/csharp/"> 
+<a href="https://www.php.net"><img width="30" height="30" margin="2px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> </a> <a href="https://www.w3schools.com/cs/"> 
 <img width="30" height="30" margin="2px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
 </a><a href="https://getbootstrap.com"><img width="30" height="30" margin="2px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"> </a><a href="https://www.w3schools.com/css/"><img width="30" height="30" margin="2px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a><a href="https://www.w3.org/html/"><img width="30" height="30" margin="2px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a><a href="https://www.mysql.com/"><img width="30" height="30" margin="2px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a>
 </details>
@@ -34,7 +36,7 @@ I am a final year student at the Technical College Cotemig 🎓. I am a passiona
   <summary><b>Backend Developement</b></summary>
   <a href="https://www.php.net"><img width="30" height="30" margin="2px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></a>
  
-<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/https://docs.microsoft.com/pt-br/dotnet/csharp/"> 
+<a href="https://www.w3schools.com/cs/"> 
 <img width="30" height="30" margin="2px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></a>
 </details>
 
