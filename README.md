@@ -2,13 +2,14 @@
 
 [![wakatime](https://wakatime.com/badge/user/7fd5495f-4be6-4146-9438-0b544166c693.svg)](https://wakatime.com/@7fd5495f-4be6-4146-9438-0b544166c693)
 
-<a href="https://komarev.com/ghpvc/?username=alsiam">
+<a href="https://komarev.com/ghpvc/?username=davi-mesquita">
   <img src="https://komarev.com/ghpvc/?username=davi-mesquita&label=Visitors&color=0e75b6&style=for-the-badge" alt="Profile visitor" />
 </a>
 </div>
 <!-- Intro  -->
 <h3 align="center">
-        <a href="https://github.com/davi-mesquita"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&width=492&pause=1000&color=c8b491&vCenter=true&lines=&gt; Olá!+Me+chamo+Davi+Mesquita;&gt; Desenvolvedor+com+2+Anos+de+Experiência"></a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C8B491&random=false&width=492&lines=%3E+Ol%C3%A1!+Me+chamo+Davi+Mesquita;%3E+Desenvolvedor+com+2+Anos+de+Experi%C3%AAncia)](https://git.io/typing-svg)
 </h3>
 
 <p align="center"> 
@@ -37,9 +38,10 @@
 <br />
 
 ## Linguagens que uso para programar
+<p align="center">
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davi-mesquita&layout=compact&theme=monokai&hide=css,html,php,dart)
-
+</p>
 <details><summary style="font-size:16px">
 Banco de Dados</summary>
 
