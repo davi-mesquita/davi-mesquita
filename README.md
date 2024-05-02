@@ -38,10 +38,9 @@
 <br />
 
 ## Linguagens que uso para programar
-<p align="center">
-
+<div align="center">
+  
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davi-mesquita&layout=compact&theme=monokai&hide=css,html,php,dart)
-</p>
 <details><summary style="font-size:16px">
 Banco de Dados</summary>
 
@@ -84,15 +83,16 @@ Outros</summary>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </details>
+</div>
 
 ## 👔 Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img margin-right="15px" align="left" height="94px" width="94px" alt="InfoDesign" src="  https://infodesign.dev.br/assets/img/Logoinfo.svg"/>](https://infodesign.dev.br/)
+[<img margin-right="15px" align="left" height="94px" width="94px" alt="InfoDesign" src="https://infodesign.dev.br/assets/img/Logoinfo.svg"/>](https://infodesign.dev.br/)
 
 **Software Engineer** \
-[**InfoDesign**](https://www.spacex.com/) • Full-time \
+[**InfoDesign**](https://infodesign.dev.br/) • Full-time \
 Linguagens & Tecnologias: `Python`, `DBT`, `DLT`, `Asp.Net`, `C#`, `Entity Framework`, `Razor`, `PostGreSql`, `Sql Server`,\
 Projetos em destaque: [Info-Integrador](https://infointegrador.com.br/), [HarmonizePay](https://harmonizepay.com.br/)
 <br/>
