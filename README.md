@@ -106,3 +106,4 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/davi-mesquita/)
 ## ⭐ Status GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davi-mesquita&theme=monokai&show_icons=true&icon_color=30A3DC)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=davi-mesquita&theme=monokai&dates=FFF)](https://git.io/streak-stats)
