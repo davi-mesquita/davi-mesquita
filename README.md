@@ -1,11 +1,12 @@
-<div style="display:flex; align-items:center;justify-content:space-between">
-
-[![wakatime](https://wakatime.com/badge/user/7fd5495f-4be6-4146-9438-0b544166c693.svg)](https://wakatime.com/@7fd5495f-4be6-4146-9438-0b544166c693)
-
-<a href="https://komarev.com/ghpvc/?username=davi-mesquita">
-  <img src="https://komarev.com/ghpvc/?username=davi-mesquita&label=Visitors&color=0e75b6&style=for-the-badge" alt="Profile visitor" />
-</a>
+<div style="display:flex;justify-content:space-between;">
+  <a align="left" href="https://wakatime.com/@7fd5495f-4be6-4146-9438-0b544166c693">
+    <img src="https://wakatime.com/badge/user/7fd5495f-4be6-4146-9438-0b544166c693.svg" alt="Total time coded since May 2 2024" />
+  </a>
+  <a align="right" href="https://komarev.com/ghpvc/?username=davi-mesquita">
+    <img src="https://komarev.com/ghpvc/?username=davi-mesquita&label=Visitors&color=0e75b6&style=for-the-badge" alt="Profile visitor" />
+  </a>
 </div>
+
 <!-- Intro  -->
 <h3 align="center">
 
