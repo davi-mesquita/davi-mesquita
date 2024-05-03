@@ -7,7 +7,7 @@
   </a>
 </div>
 
-</br>
+<br/>
 
 <!-- Intro  -->
 
@@ -45,7 +45,7 @@
 <div align="center">
   
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davi-mesquita&layout=compact&theme=monokai&hide=css,html,php,dart)
-<details><summary style="font-size:16px">
+<details open><summary style="font-size:16px">
 Banco de Dados</summary>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
@@ -53,7 +53,7 @@ Banco de Dados</summary>
 ![Microsoft_SQL_Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
 
 </details>
-<details><summary style="font-size:16px">
+<details open><summary style="font-size:16px">
 Linguagens Front-End</summary>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -66,7 +66,7 @@ Linguagens Front-End</summary>
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 </details>
-<details><summary style="font-size:16px">
+<details open><summary style="font-size:16px">
 Linguagens Back-End</summary>
 
 ![Asp.Net](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge)
@@ -77,7 +77,7 @@ Linguagens Back-End</summary>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 </details>
-<details><summary style="font-size:16px">
+<details open><summary style="font-size:16px">
 Outros</summary>
 
 ![Jira](https://img.shields.io/badge/-Jira-fff?style=for-the-badge&logo=jira-software&logoColor=blue)
@@ -102,7 +102,7 @@ Projetos em destaque: [Info-Integrador](https://infointegrador.com.br/), [Harmon
 <br/>
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/davi-mesquita/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
-
+<br/>
 ## ⭐ Status GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davi-mesquita&theme=monokai&show_icons=true&icon_color=30A3DC)
