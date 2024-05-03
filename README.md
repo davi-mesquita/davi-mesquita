@@ -1,15 +1,18 @@
-<div style="display:flex;justify-content:space-between;">
-  <a align="left" href="https://wakatime.com/@7fd5495f-4be6-4146-9438-0b544166c693">
-    <img src="https://wakatime.com/badge/user/7fd5495f-4be6-4146-9438-0b544166c693.svg" alt="Total time coded since May 2 2024" />
+<div style="display:flex !important; justify-content:space-between !important;">
+  <a  href="https://wakatime.com/@7fd5495f-4be6-4146-9438-0b544166c693">
+    <img align="left" src="https://wakatime.com/badge/user/7fd5495f-4be6-4146-9438-0b544166c693.svg" alt="Total time coded since May 2 2024" />
   </a>
-  <a align="right" href="https://komarev.com/ghpvc/?username=davi-mesquita">
-    <img src="https://komarev.com/ghpvc/?username=davi-mesquita&label=Visitors&color=0e75b6&style=for-the-badge" alt="Profile visitor" />
+  <a  href="https://komarev.com/ghpvc/?username=davi-mesquita">
+    <img align="right" src="https://komarev.com/ghpvc/?username=davi-mesquita&label=Visitors&color=0e75b6&style=for-the-badge" alt="Profile visitor" />
   </a>
 </div>
 
-<!-- Intro  -->
-<h3 align="center">
+</br>
 
+<!-- Intro  -->
+
+<h3 align="center">
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C8B491&random=false&width=492&lines=%3E+Ol%C3%A1!+Me+chamo+Davi+Mesquita;%3E+Desenvolvedor+com+2+Anos+de+Experi%C3%AAncia)](https://git.io/typing-svg)
 </h3>
 
